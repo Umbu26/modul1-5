@@ -1,0 +1,27 @@
+p {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/*background color test*/
+body {
+  background-color: lightblue;
+}
+
+/* universal selector */
+* {
+  background-color: rgb(119, 112, 199);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+/* universal selector */
+h1 {
+  text-decoration: line-through; /* bukan line-through kalau tujuannya garis bawah */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-size: 15px;
+  font-family: wavy;
+}
